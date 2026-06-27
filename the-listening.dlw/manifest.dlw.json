@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-THE_LISTENING",
+  "name": "THE LISTENING · LSN",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦THE LISTENING · LSN:the-listening:86ca1d⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "86ca1d7057e0c03c9948ed82d1f1eae9b5a6a8a16650d6da13c32448a2a59d76",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
